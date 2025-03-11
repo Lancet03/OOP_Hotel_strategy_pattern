@@ -62,19 +62,16 @@
     <ClInclude Include="HotelNumber.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Rooms.h">
+    <ClInclude Include="HotelNumberC1.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RoomsC1.h">
+    <ClInclude Include="HotelNumberC2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RoomsC2.h">
+    <ClInclude Include="HotelNumberC3.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RoomsC3.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="RoomsC4.h">
+    <ClInclude Include="HotelNumberC4.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
